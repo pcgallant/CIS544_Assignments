@@ -23,7 +23,7 @@
     <ProjectGuid>{64237A78-FDAF-4163-A851-7F06E0FA24CC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Homework3</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
